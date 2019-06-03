@@ -1,4 +1,4 @@
-var arrivalDay = new Date("May 30, 2019 16:30:00");
+var arrivalDay = new Date("June 30, 2019 16:30:00");
 
 function calculateTimeToArrival() {
   var now = new Date();
